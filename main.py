@@ -1,4 +1,3 @@
-# I have put #'s in place of personal details
 from random import *
 import smtplib
 def main():
